@@ -1,0 +1,8 @@
+
+### `requirements.txt`
+
+
+- **Python**
+- **Pandas** (for data manipulation)
+- **Plotly** (for interactive visualizations)
+- **Statsmodels** (for time-series decomposition)
