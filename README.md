@@ -42,7 +42,17 @@ The dataset contains **monthly CPI data** categorized by different sectors and p
 ![Correlation Heatmap](results/cpi_correlation_heatmap.png)
 
 ---
+Learnings from CPI Analysis Project
+1️⃣ Data Cleaning & Preprocessing – Fixed errors in month names, handled missing values, and converted date formats for analysis.
+2️⃣ Exploratory Data Analysis (EDA) – Used visualizations to understand CPI trends across Rural, Urban, and Combined sectors.
+3️⃣ Time Series Analysis – Identified seasonality, trends, and inflation patterns using decomposition methods.
+4️⃣ Correlation Analysis – Explored relationships between different CPI categories like Food, Fuel, and Housing.
+5️⃣ Impact of Events (COVID-19) – Analyzed how inflation changed during the pandemic.
+6️⃣ Visualization & Insights – Created interactive graphs using Plotly to showcase trends and comparisons.
+7️⃣ GitHub & Documentation – Learned how to structure a project, write a README, and push code to GitHub.
 
+📌 Note: This project was built with help from ChatGPT, Google, and other resources to improve understanding. 🚀
+---
 ## 🛠 How to Run the Code  
 1. Clone the repository:  
    ```sh
