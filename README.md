@@ -30,16 +30,16 @@ The dataset contains **monthly CPI data** categorized by different sectors and p
 
 ## 📊 Key Visualizations & Insights  
 ### 🔹 **Inflation Trend Analysis**
-![CPI Trend](results/cpi_trend_analysis.png)
+![CPI Trend](file:///D:/python%20projects/Customer%20Price%20Analysis/results/inflation_trend.html)
 
-### 🔹 **Seasonal Decomposition**
-![Seasonal Decomposition](results/seasonal_decomposition.png)
+### 🔹 **Seasonal Analysis**
+![Seasonal Decomposition](file:///D:/python%20projects/Customer%20Price%20Analysis/results/seasonal_analysis.html)
 
 ### 🔹 **Sector Comparison**
-![Sector Comparison](results/sector_comparison.png)
+![Sector Comparison](file:///D:/python%20projects/Customer%20Price%20Analysis/results/sector_comparison.html)
 
-### 🔹 **CPI Correlation Heatmap**
-![Correlation Heatmap](results/cpi_correlation_heatmap.png)
+### 🔹 **CPI Correlation Analysis**
+![Correlation Heatmap](file:///D:/python%20projects/Customer%20Price%20Analysis/results/correlation_analysis.html)
 
 ---
 Learnings from CPI Analysis Project
